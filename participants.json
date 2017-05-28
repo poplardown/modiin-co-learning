@@ -8,10 +8,14 @@
             "https://pydigger.com/":"PyDigger Project"
         }
     },
-	  {
-			"name"    : "Evgeny Vainshtok",
-			"github"  : "johnikva"
-		},
+	{
+		"name"    : "Evgeny Vainshtok",
+		"github"  : "johnikva"
+	},
+	{
+		"name"    : "Michael Horwitz",
+		"github"  : "mhorvvitz"
+	},
     {
         "name"    : "Yosef Levy",
         "github"  : "yosefl",
@@ -24,5 +28,12 @@
     {
      "name"    : "Nastasya Arkhipova",
      "github"  : "poplardown"
+<<<<<<< HEAD
     }
+=======
+    {
+     "name"    : "Hagai Cibulski",
+     "github"  : "hagaic"
+    }	
+>>>>>>> 04ffc4e9007fde5552ef8ad99a45a1be14d97c34
 ]
